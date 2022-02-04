@@ -1,6 +1,5 @@
 
-![Welcome to my profile]
-<!-- (https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true) -->
+<!-- ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true) -->
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -14,7 +13,7 @@
 <!-- ABOUT YOU -->
 <hr>  
   <p align="center">
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2310E91F&size=28&center=true&width=470&height=50&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Greeting"> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2310E91F&size=28&center=true&width=470&height=50&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Greeting">
   </p>
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>

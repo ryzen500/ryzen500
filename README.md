@@ -19,7 +19,7 @@
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul style="list-style: none;">
     <li>👨‍🎓 I’m currently studying <strong>Sofrware Engineering</strong> in <a href="https://siakad.smkn2sby.sch.id/kompetensi/detail/RPL">SMKN 2 Surabaya</a> </li>
-    <li>🔭 I’m currently working with <a href="https://primavisiglobalindo.com/"><strong>Prima Visi Globalindo</strong></a></li>
+    <li>🔭 I’m currently working with <a href="http://inovamedika.com/"><strong>Inova Medika Solusindo</strong></a></li>
     <li>🌱 I’m currently learning <strong>Laravel,Vue,Quarkus,...</strong></li>
     <li>📫 How to reach me <strong>ahmadtsani145@gmail.com<strong></li>
   </ul>
@@ -44,6 +44,10 @@
 <!--   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  -->
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  
+  
+  <a href="https://www.yiiframework.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-plain.svg" alt="yii" width="40" height="40"/> </a>
+  
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!--   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  -->
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>

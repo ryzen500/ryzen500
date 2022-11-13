@@ -1,5 +1,6 @@
 
-![Welcome to my profile](https://github.com/ryzen500/ryzen500/blob/main/image.png)
+![Welcome to my profile]
+<!-- (https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true) -->
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -20,7 +21,7 @@
   <ul style="list-style: none;">
     <li>👨‍🎓 I’m currently studying <strong>Sofrware Engineering</strong> in <a href="https://siakad.smkn2sby.sch.id/kompetensi/detail/RPL">SMKN 2 Surabaya</a> </li>
     <li>🔭 I’m currently working with <a href="http://inovamedika.com/"><strong>Inova Medika Solusindo</strong></a></li>
-    <li>🌱 I’m currently learning <strong>Laravel,Vue,Quarkus,...</strong></li>
+    <li>🌱 I’m currently learning <strong>Laravel,Vue,Quarkus,Yii...</strong></li>
     <li>📫 How to reach me <strong>ahmadtsani145@gmail.com<strong></li>
   </ul>
 
@@ -36,18 +37,11 @@
 <!-- LANGUAGES AND TOOLS -->
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-      <!-- LANGUAGES AND TOOLS -->
-<hr>
-<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!--   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>  -->
 <!--   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  -->
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-<!--   
-  <a href="https://www.yiiframework.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-plain.svg" alt="yii" width="40" height="40"/> </a> -->
-  
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!--   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  -->
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -74,6 +68,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
 <!--   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
 </p>  
+
 <!-- AWARD -->
 <hr>
 <p>
@@ -88,7 +83,7 @@
 <p>
   <h3 align="center">Support:</h3>
   <p>
-    <a href="https://www.buymeacoffee.com/ryzen500">
+    <a href="https://buymeacoffee.com/josuerv99">
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
     </a>
   </p>
